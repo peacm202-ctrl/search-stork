@@ -1,0 +1,5 @@
+{
+  "name": "US Growth Stock Screener",
+  "description": "An application to screen for US growth, day trading, and high-safety dividend stocks, powered by Gemini.",
+  "requestFramePermissions": []
+}
